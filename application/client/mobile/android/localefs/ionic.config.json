@@ -1,0 +1,7 @@
+{
+  "name": "localefs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
